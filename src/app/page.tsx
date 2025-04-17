@@ -137,7 +137,7 @@ export default function Home() {
                 we craft user journeys that captivate and resonate.
               </span>
               <span className="text-[12px] sm:text-[15px] font-inter bg-gradient-to-r from-[#595959] to-[#C6C6C6] text-transparent bg-clip-text">
-                It's no secret that we live and breathe digital experiences.
+                {"It's no secret that we live and breathe digital experiences."}
               </span>
             </div>
 
